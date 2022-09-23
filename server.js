@@ -26,7 +26,6 @@ app.use(cors({
 }));
 
 
-
 // DB config
 const connection_url = 'mongodb+srv://rajeswaran:WQlO2zYL8aK1vtfO@cluster0.eutso4r.mongodb.net/whatsappdb?retryWrites=true&w=majority'
 
